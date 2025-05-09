@@ -9,11 +9,11 @@ The app offers a user-friendly interface where users can manage student informat
 
 - Add new student records
 
-Search for students by name
+- Search for students by name
 
-Edit existing student data
+- Edit existing student data
 
-Delete selected student entries
+- Delete selected student entries
 
 ## 🧭 Navigation & UI:
 
