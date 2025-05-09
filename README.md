@@ -7,7 +7,7 @@ The app offers a user-friendly interface where users can manage student informat
 ## 📋 Key Features:
 ✅ CRUD Operations:
 
-Add new student records
+- Add new student records
 
 Search for students by name
 
