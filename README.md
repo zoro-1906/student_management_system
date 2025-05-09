@@ -31,9 +31,9 @@ Clickable cells that trigger additional options
 
 ## 🧠 Dialog Boxes:
 
-Custom PyQt dialogs for each operation (Insert, Edit, Delete, Search)
+- Custom PyQt dialogs for each operation (Insert, Edit, Delete, Search)
 
-About dialog explaining the purpose of the app
+- About dialog explaining the purpose of the app
 
 ## 🛠️ Tools & Technologies:
 Python
