@@ -17,11 +17,11 @@ The app offers a user-friendly interface where users can manage student informat
 
 ## 🧭 Navigation & UI:
 
-Menu bar with File, Edit, and Help sections
+- Menu bar with File, Edit, and Help sections
 
-Toolbar for quick access to core actions
+- Toolbar for quick access to core actions
 
-Status bar showing contextual actions (Edit/Delete buttons appear on cell click)
+- Status bar showing contextual actions (Edit/Delete buttons appear on cell click)
 
 ## 📐 Table View:
 
