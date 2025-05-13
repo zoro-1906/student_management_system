@@ -36,15 +36,15 @@ Clickable cells that trigger additional options
 - About dialog explaining the purpose of the app
 
 ## 🛠️ Tools & Technologies:
-Python
+- Python
 
-PyQt6 for GUI components
+- PyQt6 for GUI components
 
-SQLite for lightweight database management
+- SQLite for lightweight database management
 
-QTableWidget, QDialog, QMessageBox, QLineEdit, QComboBox for interactivity
+- QTableWidget, QDialog, QMessageBox, QLineEdit, QComboBox for interactivity
 
-Modular structure with OOP principles
+- Modular structure with OOP principles
 
 ##💡 How It Works:
 Student data is stored in a local SQLite database (database.db)
