@@ -25,7 +25,7 @@ The app offers a user-friendly interface where users can manage student informat
 
 ## 📐 Table View:
 
-Interactive QTableWidget to display all student data
+- Interactive QTableWidget to display all student data
 
 Clickable cells that trigger additional options
 
