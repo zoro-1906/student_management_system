@@ -47,9 +47,9 @@ Clickable cells that trigger additional options
 - Modular structure with OOP principles
 
 ##💡 How It Works:
-Student data is stored in a local SQLite database (database.db)
+- Student data is stored in a local SQLite database (database.db)
 
-The app opens with a data table that auto-loads all student records
+- The app opens with a data table that auto-loads all student records
 
 Selecting a row reveals edit/delete actions via the status bar
 
