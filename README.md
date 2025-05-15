@@ -3,17 +3,17 @@
 - Designed a clean and interactive user interface for ease of use.
 - Implemented core functionalities including:
 
-Adding new student records
+- -   Adding new student records
 
-Searching existing records
+- - Searching existing records
 
-Editing student details
+- - Editing student details
 
-Deleting records
+- - Deleting records
 
-Ensured smooth integration between the GUI and database for real-time updates.
+- Ensured smooth integration between the GUI and database for real-time updates.
 
-Focused on user experience and efficient data handling.
+- Focused on user experience and efficient data handling.
 
 
 
