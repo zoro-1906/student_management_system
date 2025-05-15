@@ -1,6 +1,21 @@
 # 🎓 Student Management System
 - Developed a full-featured student record management application using PyQt6 and SQLite.
 - Designed a clean and interactive user interface for ease of use.
+- Implemented core functionalities including:
+
+Adding new student records
+
+Searching existing records
+
+Editing student details
+
+Deleting records
+
+Ensured smooth integration between the GUI and database for real-time updates.
+
+Focused on user experience and efficient data handling.
+
+
 
 
 
