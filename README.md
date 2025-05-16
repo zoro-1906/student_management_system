@@ -69,7 +69,7 @@ The app offers a user-friendly interface where users can manage student informat
 
 - The app opens with a data table that auto-loads all student records
 
-Selecting a row reveals edit/delete actions via the status bar
+- Selecting a row reveals edit/delete actions via the status bar
 
-Dialogs are used for user inputs and confirmations, ensuring a smooth UX
+- Dialogs are used for user inputs and confirmations, ensuring a smooth UX
 
